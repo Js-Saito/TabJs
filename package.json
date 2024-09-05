@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "tabjs",
+  "description": "Me tornando um desenvolvedor com curso.dev e desenvolvendo o TabJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "José Saito",
+  "license": "MIT"
+}
